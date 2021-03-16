@@ -1,0 +1,4 @@
+name = "GCSFS"
+uuid = "f572ba62-206d-4759-a950-82e207540557"
+authors = ["Paul Milovanov <paul@dada.science>"]
+version = "0.1.0"
